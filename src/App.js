@@ -1,6 +1,6 @@
 import React from 'react';
 import BmiCalculator from './BmiCalculator';
-import './App.css';
+import './Bmi.css'
 
 function App() {
   return (
